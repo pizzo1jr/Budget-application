@@ -3,7 +3,7 @@
 ## Description
 This budget application allows for users to keep track of their budget with our without an internet connection. The user can add and delete different amount of moeny from 
 their budget and it will list the transactions (whether it is added or subtracted, and what the memo was) along with keeping a running total of the dollar amount.
-If the user hits a dead spot and loses internet connection, their progress is able to be saved and will upload when the yare back in service.
+If the user hits a dead spot and loses internet connection, their progress is able to be saved and will upload when they are back in internet or wifi service. Great for travelers to use that are traveling cross country 
 
 Uses: Mongoose, and express
 npm install mongoose
